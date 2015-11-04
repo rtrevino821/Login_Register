@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         etName = (EditText) findViewById(R.id.etName);
         etAge = (EditText) findViewById(R.id.etAge);
         etUsername = (EditText) findViewById(R.id.etUsername);
+        etAge = fuckShit;
 
         bLogout = (Button) findViewById(R.id.bLogout);
 
